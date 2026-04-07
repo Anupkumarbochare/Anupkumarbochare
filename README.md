@@ -10,7 +10,7 @@
 
 ### About
 
-MS Information Systems @ Northeastern University. Previously built production alpha pipelines and validation frameworks at **Global Delta Capital**, a systematic hedge fund focused on emerging and frontier markets.
+MS Information Systems @ Northeastern University. 
 
 I work at the intersection of quantitative finance and software engineering — building the infrastructure that powers systematic trading strategies across 50K+ global equities.
 
