@@ -1,115 +1,101 @@
-## Hey 👋, I'm [Anupkumar Bochare!](https://github.com/Anupkumarbochare/)
+# Anupkumar Bochare
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anupbochare/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anupkumarbochare.framer.website/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Anupkumarbochare)
+**Quantitative Research Engineer | Systematic Alpha Infrastructure | ML Systems**
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Anupkumarbochare.Anupkumarbochare&style=flat-square&color=0088cc)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anupbochare/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anupkumarbochare.framer.website/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bochare.a@northeastern.edu)
 
-I'm currently pursuing a Master's in Information Systems 🎓 from Northeastern University 🏛. I'm a passionate ML Engineer and Analytics expert with experience in turning petabyte-sized data into business insights. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently focused on Machine Learning, MLOps, and AI Engineering 🕸️.
+---
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Anupkumarbochare/Anupkumarbochare/master/gifs/coder.gif" />
+### About
 
-### Talking about Personal Stuffs:
+MS Information Systems @ Northeastern University. Previously built production alpha pipelines and validation frameworks at **Global Delta Capital**, a systematic hedge fund focused on emerging and frontier markets.
 
-- 🛠 &nbsp; I'm currently working with Python, PyTorch, SQL, MLOps tools and frameworks.
-- 🚀 &nbsp; I'm currently learning advanced Neural Modeling Methods and Data Science Engineering.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/Anupkumarbochare).
-- 💬 &nbsp; Ask me about anything related to ML, Data Science, or Cloud solutions!
-- 👾 &nbsp; Fun fact: I've improved ML Platform reliability by 35% by developing automated testing frameworks.
-- 📫 &nbsp; How to reach me: bochare.a@northeastern.edu
-- 📝 &nbsp; Check out my [Portfolio](https://anupkumarbochare.framer.website/).
+I work at the intersection of quantitative finance and software engineering — building the infrastructure that powers systematic trading strategies across 50K+ global equities.
 
-### My Absolute Favorites:
+**Published in IEEE** · **NeurIPS 2025 submission under review**
 
-- 💻 &nbsp; Building end-to-end ML pipelines and optimizing them for performance.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+---
 
-### Languages and Tools:
+### What I Build
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" alt="pytorch"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+```
+Alpha Infrastructure    → Signal pipelines, factor construction, forecast universe expansion
+Validation Systems      → Multi-tier data quality frameworks with automated alerting
+ML Platforms            → Model registry, experiment tracking, quant-specific metrics
+Research Tools          → Anomaly detection, statistical modeling, automated reporting
+```
 
-### Projects and Dev Stuffs:
+---
 
-<details>	
-  <summary><b>⚡ GitHub Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anupkumarbochare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupkumarbochare&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+### Tech Stack
 
-<details>	
-  <summary><b>☄️ GitHub Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anupkumarbochare&hide_border=true" />
-</details>
+| Domain | Tools |
+|---|---|
+| **Languages** | Python (Advanced), SQL (PostgreSQL, MySQL), C++ |
+| **Quant & Stats** | Factor Modeling, Time Series (ARIMA/SARIMA), Optimization (CVXPY), Statistical Testing |
+| **ML & Data** | PyTorch, Pandas, NumPy, PySpark, Scikit-learn |
+| **Infrastructure** | Docker, Dagster, MLflow, Redis, MinIO, PostgreSQL + TimescaleDB |
+| **Cloud & DevOps** | AWS (S3, SageMaker), CI/CD (GitHub Actions), Git, Linux |
 
-<details>
-  <summary><b>🧑‍🚀 Featured Projects</b></summary>
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/Anupkumarbochare/CO2-Health-Impact"><b>🌍 Predictive Analysis of CO2 Emissions</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Anupkumarbochare/CO2-Health-Impact?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Anupkumarbochare/CO2-Health-Impact?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Anupkumarbochare/CO2-Health-Impact?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Anupkumarbochare/CO2-Health-Impact?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Anupkumarbochare/CO2-Health-Impact?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/Anupkumarbochare/MedSwap"><b>💊 MedSwap - Medicine Recommendation</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Anupkumarbochare/MedSwap?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Anupkumarbochare/MedSwap?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Anupkumarbochare/MedSwap?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Anupkumarbochare/MedSwap?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Anupkumarbochare/MedSwap?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/Anupkumarbochare/ML-Platform-Testing"><b>🧪 ML Platform Testing Framework</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Anupkumarbochare/ML-Platform-Testing?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Anupkumarbochare/ML-Platform-Testing?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Anupkumarbochare/ML-Platform-Testing?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Anupkumarbochare/ML-Platform-Testing?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Anupkumarbochare/ML-Platform-Testing?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-</details>
+---
 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> macOS</li>
-	    <li><b>Laptop: </b> MacBook Pro</li>
-  	    <li><b>Browser: </b> Chrome</li>
-	    <li><b>Code Editor:</b> VSCode, PyCharm</li>
-	    <li><b>To Stay Updated:</b> Medium, LinkedIn, and Google Developer Groups</li>
-	</ul>	
-</details>
+### Featured Projects
 
-#
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔬 QuantOS</h3>
+      <p>Production-grade MLOps platform for quantitative finance. Model registry, experiment tracking, 5-tier validation framework with quant-specific metrics (IC, Sharpe, turnover, factor exposure).</p>
+      <p><b>Stack:</b> FastAPI · PostgreSQL + TimescaleDB · Redis · MinIO · MLflow · Grafana · Docker Compose</p>
+      <a href="https://github.com/Anupkumarbochare/QuantOS">
+        <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📊 SEC Filing Analysis Platform</h3>
+      <p>Multi-agent RAG system automating equity research from SEC EDGAR filings. Technical indicators (MACD, RSI, Bollinger Bands) + valuation models with vector search retrieval.</p>
+      <p><b>Stack:</b> Python · Pinecone · Gemini AI · SEC EDGAR · Alpha Vantage API</p>
+      <a href="https://github.com/Anupkumarbochare/">
+        <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚗 Camera-Only BEV Perception</h3>
+      <p>Bird's Eye View perception system for autonomous vehicles eliminating LiDAR dependency. 92% detection performance at 13 FPS across 6 camera inputs. <b>Submitted to NeurIPS 2025.</b></p>
+      <p><b>Stack:</b> PyTorch · YOLOv11 · DepthAnythingV2 · Computer Vision</p>
+      <a href="https://github.com/Anupkumarbochare/">
+        <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💊 MedSwap</h3>
+      <p>Medicine recommendation system using NLP-based similarity matching. <b>Published in IEEE and IJSRSET.</b></p>
+      <p><b>Stack:</b> Python · TF-IDF · Word2Vec · FastAPI · SQL</p>
+      <a href="https://github.com/Anupkumarbochare/MedSwap">
+        <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+---
 
-### Show some ❤️ by starring some of the repositories!
+### GitHub Activity
 
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anupkumarbochare&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default"/>
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupkumarbochare&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=default"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to Quantitative Developer and Research Engineer opportunities.</i>
+  <br/>
+  <a href="mailto:bochare.a@northeastern.edu">bochare.a@northeastern.edu</a> · <a href="https://www.linkedin.com/in/anupbochare/">LinkedIn</a>
+</p>
