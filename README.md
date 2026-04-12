@@ -67,6 +67,15 @@ I'm currently pursuing a Master's in Information Systems 🎓 from Northeastern 
     </thead>
     <tbody>
       <tr>
+	      <td><a href="[https://github.com/Anupkumarbochare/CO2-Health-Impact](https://github.com/Anupkumarbochare/QuantOS---Quant-ML-Platform)"><b>QuantOS - Quantitative ML Platform</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Anupkumarbochare/CO2-Health-Impact?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Anupkumarbochare/CO2-Health-Impact?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Anupkumarbochare/CO2-Health-Impact?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Anupkumarbochare/CO2-Health-Impact?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Anupkumarbochare/CO2-Health-Impact?style=flat-square"/></td>
+      </tr>
+      <tr>
+      <tr>
 	      <td><a href="https://github.com/Anupkumarbochare/CO2-Health-Impact"><b>🌍 Predictive Analysis of CO2 Emissions</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Anupkumarbochare/CO2-Health-Impact?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Anupkumarbochare/CO2-Health-Impact?style=flat-square&labelColor=343b41"/></td>
