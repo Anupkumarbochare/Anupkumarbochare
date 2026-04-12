@@ -12,20 +12,8 @@
 
 MS Information Systems @ Northeastern University. 
 
-I work at the intersection of quantitative finance and software engineering — building the infrastructure that powers systematic trading strategies across 50K+ global equities.
-
+I work at the intersection of quantitative finance and software engineering
 **Published in IEEE** · **NeurIPS 2025 submission under review**
-
----
-
-### What I Build
-
-```
-Alpha Infrastructure    → Signal pipelines, factor construction, forecast universe expansion
-Validation Systems      → Multi-tier data quality frameworks with automated alerting
-ML Platforms            → Model registry, experiment tracking, quant-specific metrics
-Research Tools          → Anomaly detection, statistical modeling, automated reporting
-```
 
 ---
 
