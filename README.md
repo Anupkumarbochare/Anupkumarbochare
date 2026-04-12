@@ -49,7 +49,7 @@ Research Tools          → Anomaly detection, statistical modeling, automated r
       <h3>🔬 QuantOS</h3>
       <p>Production-grade MLOps platform for quantitative finance. Model registry, experiment tracking, 5-tier validation framework with quant-specific metrics (IC, Sharpe, turnover, factor exposure).</p>
       <p><b>Stack:</b> FastAPI · PostgreSQL + TimescaleDB · Redis · MinIO · MLflow · Grafana · Docker Compose</p>
-      <a href="https://github.com/Anupkumarbochare/QuantOS">
+      <a href="[https://github.com/Anupkumarbochare/QuantOS](https://github.com/Anupkumarbochare/QuantOS---Quant-ML-Platform">
         <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
